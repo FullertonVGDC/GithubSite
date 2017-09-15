@@ -35,3 +35,8 @@ body {
 #red{
   color: #fcfcfc;
 }
+.logo {
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+}
